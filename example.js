@@ -1,6 +1,5 @@
 var http = require('http');
 
-var circle = require('circle');
 var node_oauth = require('node-oauth');
 console.log(node_oauth);
 
